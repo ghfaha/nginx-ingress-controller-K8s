@@ -58,4 +58,4 @@ No modules.
 | <a name="output_k8s_service_ingress_elb"></a> [k8s\_service\_ingress\_elb](#output\_k8s\_service\_ingress\_elb) | External DN name of elastic load balancer |
 <!-- END_TF_DOCS -->
 ## License
-[GNU General Public License v3.0](https://github.com/Noura98Houssien/simple-nginx-ingress-controller/blob/master/LICENSE)
+[GNU General Public License v3.0](https://github.com/ghfaha/nginx-ingress-controller-K8s/blob/master/LICENSE)
